@@ -1,6 +1,10 @@
 # Super Slot
 
 Super Slot is a decentralized Ethereum-based slot machine game featuring popular memecoins. Players can spin the slots for a chance to win ETH from the prize pool.
+ 
+- Frontend: https://super-slot.vercel.app/
+- Contract Deployed on Scroll Sepolia Testnet: [0x6da2F4963E3c936DfF4cea3a9a6C521807895C6E](https://sepolia.scrollscan.com/address/0x6da2F4963E3c936DfF4cea3a9a6C521807895C6E)
+
 
 ## Features
 
@@ -29,12 +33,12 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/super-slot.git
+git clone https://github.com/justforkityo/Super-Slot.git
 
 Copy
 
 2. Navigate to the project directory:
-cd super-slot
+cd Super-Slot
 
 Copy
 
